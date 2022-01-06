@@ -1,0 +1,98 @@
+.navbar {
+  background-color: rgb(19, 35, 145);
+  color: rgb(255, 255, 255);
+  font-size: 20px;
+  display: flex;
+  flex-wrap: wrap;
+}
+
+.row {
+  justify-content: space-between;
+  padding: 10px;
+}
+
+.header {
+  margin: 20px 80px 20px 50px;
+  color: rgb(255, 255, 255);
+}
+
+.headerLines {
+  background-color: rgb(19, 124, 145);
+  margin: 1px;
+  padding: 5px;
+}
+
+.headerad {
+  background-color: rgb(97, 176, 233);
+  margin: 1px;
+  padding: 5px;
+}
+
+.mainBody {
+  display: flex;
+  flex-direction: row;
+  margin: 20px 80px 20px 50px;
+}
+
+.main {
+  border: solid 1px rgb(67, 64, 64);
+  margin-right: 20px;
+  float: left;
+}
+
+.headline {
+  font-size: 40px;
+  font-weight: bold;
+}
+
+.img {
+  width: 1000px;
+  margin: 20px 100px 20px 70px;
+}
+
+.main h2 {
+  font-size: 20px;
+  color: rgb(255, 0, 0);
+  margin: 10px;
+}
+
+.main h3 {
+  font-size: 26px;
+  margin: 10px;
+}
+
+.main h4 {
+  margin: 10px;
+  font-size: 20px;
+}
+
+.side {
+  border: solid 1px rgb(67, 64, 64);
+  float: right;
+}
+
+.sideTitle {
+  font-size: 36px;
+  font-weight: bold;
+}
+
+.sideBody {
+  display: flex;
+  flex-direction: row;
+  margin: 20px;
+  font-size: 26px;
+}
+.eachLine {
+  margin: 10px;
+}
+
+.eachLineNumbers {
+  margin: 10px;
+  font-weight: bold;
+  font-size: 24px;
+}
+
+.newsheadline {
+  display: flex;
+  flex-direction: row;
+}
