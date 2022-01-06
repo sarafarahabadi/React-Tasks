@@ -1,0 +1,30 @@
+.search {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.search input {
+  margin: 30px;
+  font-size: 30px;
+  padding-left: 10px;
+}
+
+.productList {
+  float: left;
+  margin: 80px;
+}
+
+.productList img {
+  width: 250px;
+  height: 250px;
+}
+
+.productName {
+  font-size: 30px;
+  font-weight: bold;
+}
+
+.price {
+  font-size: 24px;
+}

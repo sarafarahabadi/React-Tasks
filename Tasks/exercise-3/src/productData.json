@@ -1,0 +1,52 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "image": "earpods.PNG",
+      "productName": "Wireless Earbuds",
+      "price": "39€"
+    },
+    {
+      "id": 2,
+      "image": "HTMI-splitter.PNG",
+      "productName": "VGA to HDMI Adapter",
+      "price": "12€"
+    },
+    {
+      "id": 3,
+      "image": "headset-1.PNG",
+      "productName": "Gaming Headset",
+      "price": "29.99€"
+    },
+    {
+      "id": 4,
+      "image": "keyboard.PNG",
+      "productName": "Keyboard and Mouse Set",
+      "price": "20€"
+    },
+    {
+      "id": 5,
+      "image": "monitor.PNG",
+      "productName": "Monitor",
+      "price": "226€"
+    },
+    {
+      "id": 6,
+      "image": "laptop-holder.PNG",
+      "productName": "Laptop Holder",
+      "price": "27€"
+    },
+    {
+      "id": 7,
+      "image": "lenovo.PNG",
+      "productName": "Lenovo Ideapad 3 Laptop",
+      "price": "540€"
+    },
+    {
+      "id": 8,
+      "image": "wheel.PNG",
+      "productName": "Ferrari Racing Wheel xbox series",
+      "price": "100€"
+    }
+  ]
+}
