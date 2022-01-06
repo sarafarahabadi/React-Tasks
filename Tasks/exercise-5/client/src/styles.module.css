@@ -1,0 +1,66 @@
+.search {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.search input {
+  margin: 30px;
+  font-size: 30px;
+  padding-left: 10px;
+}
+
+.productList {
+  float: left;
+  margin: 80px;
+}
+
+.productList img {
+  width: 250px;
+  height: 250px;
+}
+
+.productName {
+  font-size: 30px;
+  font-weight: bold;
+}
+
+.price {
+  font-size: 24px;
+}
+
+.addnewProduct {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  border: 1px solid rgb(179, 54, 54);
+  margin: 20px 350px 20px 350px;
+}
+
+.addTitle {
+  font-size: 28px;
+  font-weight: bold;
+  margin: 20px;
+}
+
+.newInput {
+  margin: 20px;
+  font-size: 24px;
+  padding: 10px;
+}
+
+.newInput input {
+  margin: 10px;
+  font-size: 22px;
+}
+
+.newInput button {
+  font-size:22px;
+  cursor: pointer;
+}
+
+.adminbutton {
+  font-size:22px;
+  cursor: pointer;
+  margin: 50px;
+}
